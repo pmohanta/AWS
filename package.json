@@ -1,0 +1,31 @@
+{
+  "name": "try1",
+  "version": "1.0.0",
+  "description": "Install Visual Studio Code : https://code.visualstudio.com/download \r Install Node.js(6.10) : https://nodejs.org/en/blog/release/v6.10.2/\r Open Command Prompt\r 1) Check node.js and npm version by a) node -v and b)npm -v",
+  "main": "handler.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pmohanta/AWS.git"
+  },
+  "keywords": [
+    "starting",
+    "aws",
+    "lambda",
+    "with",
+    "git",
+    "on",
+    "windows"
+  ],
+  "author": "Palash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pmohanta/AWS/issues"
+  },
+  "homepage": "https://github.com/pmohanta/AWS#readme",
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  }
+}

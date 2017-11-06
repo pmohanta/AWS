@@ -24,3 +24,16 @@ Paste in Visual Studio Code for Repository URL
 Choose dev folder e.g. C:\Palash\Development\NodeLambda
 
 Follow on screen instructions in Visual studio Code
+
+Try Checking Commit , Push, Pull to see if git is working on or not. 
+-----------------------------------------------------------------------------
+install serverless in command prompt : npm i serverless -g 
+install aws in command prompt : npm i aws -g
+
+Go to credentials file e.g (C:\Users\Administrator\.aws\credentials) [Note: The dot before aws and credentials has no extension] and save your 
+aws credentials in that file like 
+
+[default]
+aws_access_key_id = Your access key
+aws_secret_access_key = Your secret access key
+-----------------------------------------------------------------------------
